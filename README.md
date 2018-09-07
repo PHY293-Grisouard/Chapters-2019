@@ -1,4 +1,6 @@
-# First clone onto syzygy:
+# Instructions to use this repository with syzygy
+
+## If first cloning into syzygy:
 
 1. Go to https://utoronto.syzygy.ca, log in with your UTorID, and start the server.
 2. Near the top-right-hand corner of the home menu, hit the drop-down menu "New", and click on Terminal.
@@ -14,7 +16,7 @@
 
 * This should create a new folder called `Chapters`, in which all the chapters of my lecture notes will be located.
 
-# Refreshing the lecture notes
+## Refreshing the lecture notes
 
 The chapter folders are still empty, because I will probably change the content from last year
 As the class progresses, I will of course add chapters, or modify the chapters, correct typos, etc.
@@ -27,7 +29,7 @@ As the class progresses, I will of course add chapters, or modify the chapters, 
 
 in the Terminal, where you left at the end of step 3.
 
-# Opening a Jupyter notebook:
+## Opening a Jupyter notebook:
 
 8. Repeat steps 1-3 above.
 9. Repeat step 7 above, probably.
