@@ -27,10 +27,6 @@ pdflatex ${1}.tex
 pdflatex ${1}.tex
 rm *.aux *.bbl *.blg *.log *.out
 
-echo ' '
-echo '---- Conversion to html ----'
-jupyter nbconvert ${1}.ipynb --to html
-
-echo ' '
-echo '---- Conversion to slideshow ----'
-jupyter nbconvert ${1}.ipynb --to slides --reveal-prefix=reveal.js
+#echo ' '
+#echo '---- Conversion to slideshow ----'
+#xjupyter nbconvert ${1}.ipynb --to slides --reveal-prefix=reveal.js
