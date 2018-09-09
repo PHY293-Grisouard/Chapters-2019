@@ -1,0 +1,13 @@
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Nicolas Grisouard, nicolas.grisouard@physics.utoronto.ca}
+((* endblock author *))
+
+((* block date *))
+\date{8 and 11 September 2017}
+((* endblock date *))
+
+((* block title *))
+\title{Chapter 1: Simple Harmonic Oscillators}
+((* endblock title *))
