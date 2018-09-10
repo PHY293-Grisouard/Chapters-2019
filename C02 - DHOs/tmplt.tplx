@@ -5,9 +5,9 @@
 ((* endblock author *))
 
 ((* block date *))
-\date{8 and 11 September 2017}
+\date{11 and 14 September 2017}
 ((* endblock date *))
 
 ((* block title *))
-\title{Chapter 1: Simple Harmonic Oscillators}
+\title{Chapter 2: Damped Harmonic Oscillators}
 ((* endblock title *))
