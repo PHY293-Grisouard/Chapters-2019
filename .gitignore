@@ -1,2 +1,8 @@
 *.mp4
 *.pdf
+*.zip
+*.aux
+*.log
+*.bib
+*.tex
+.ipynb_checkpoints/*
