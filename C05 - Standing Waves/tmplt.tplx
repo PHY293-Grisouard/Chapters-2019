@@ -1,0 +1,18 @@
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Nicolas Grisouard, nicolas.grisouard@physics.utoronto.ca}
+((* endblock author *))
+
+((* block title *))
+\title{C05 - Standing waves}
+((* endblock title *))
+
+((* block date *))
+\date{2, 5 and 9 October 2018}
+((* endblock date *))
+
+%((* block bibliography *))
+%\bibliographystyle{plain}
+%\bibliography{/Users/NicoG/Documents/library}
+%((* endblock bibliography *))
