@@ -6,4 +6,5 @@
 *.bib
 *.tex
 *.html
+*_files
 .ipynb_checkpoints/*
