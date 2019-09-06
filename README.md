@@ -25,7 +25,8 @@ At the beginning of the term, the chapters will be the same as last year. As the
 
 6. If you just want to play around with the notes a little in-between two updates but want your repository to closely match what I have on GitHub, enter the command 
 
-  `git pull`
+  `git fetch --all`
+  `git reset --hard origin/master`
 
   in the Terminal, where you left at the end of step 5, whenever you want to re-align your notes with mine.
 
@@ -36,3 +37,5 @@ At the beginning of the term, the chapters will be the same as last year. As the
 8. Repeat steps 1-3 above.
 9. Repeat step 6 or 7 above, probably.
 10. You can navigate to the Jupyter file, using the graphical interface of the home menu of syzygy. You are looking for a `.ipynb` file.
+
+**Please let me know if this procedure does not work! I do not have guinea pigs to test it on.**
