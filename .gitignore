@@ -9,4 +9,4 @@
 *_files
 *.bash
 *.tplx
-.ipynb_checkpoints/*
+*/.ipynb_checkpoints
