@@ -7,4 +7,6 @@
 *.tex
 *.html
 *_files
+*.bash
+*.tplx
 .ipynb_checkpoints/*
